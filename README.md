@@ -15,6 +15,6 @@
 ### My Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,aws,kubernetes,docker,githubactions,vite,vitest,tailwind,pnpm,yarn,npm,jest,dynamodb,mongodb,postgres,redis,prometheus,dotnet,swift,bash,html,css,azure,wordpress,php,perl,jquery&theme=dark" type="image/svg+xml">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,aws,kubernetes,docker,githubactions,vite,vitest,tailwind,pnpm,yarn,npm,jest,dynamodb,mongodb,postgres,redis,prometheus,dotnet,swift,bash,html,css,azure,wordpress,php,perl,jquery&theme=dark" type="image/svg">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,aws,kubernetes,docker,githubactions,vite,vitest,tailwind,pnpm,yarn,npm,jest,dynamodb,mongodb,postgres,redis,prometheus,dotnet,swift,bash,html,css,azure,wordpress,php,perl,jquery&theme=light" alt="my current tech stack: typescript, javascript, react, nodejs, aws, kubernetes, docker, githubactions, vite, vitest, tailwind, pnpm, yarn, npm, jest">
 </picture>
