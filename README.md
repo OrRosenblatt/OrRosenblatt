@@ -13,8 +13,4 @@
 - Looking for my next challenge, check [my Linkedin](https://www.linkedin.com/in/orrosenblatt/)! #OpenToWork
 
 ### My Tech Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,aws,kubernetes,docker,githubactions,vite,vitest,tailwind,pnpm,yarn,npm,jest,dynamodb,mongodb,postgres,redis,prometheus,dotnet,swift,bash,html,css,azure,wordpress,php,perl,jquery&theme=dark" type="image/svg">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,aws,kubernetes,docker,githubactions,vite,vitest,tailwind,pnpm,yarn,npm,jest,dynamodb,mongodb,postgres,redis,prometheus,dotnet,swift,bash,html,css,azure,wordpress,php,perl,jquery&theme=light" alt="my current tech stack: typescript, javascript, react, nodejs, aws, kubernetes, docker, githubactions, vite, vitest, tailwind, pnpm, yarn, npm, jest">
-</picture>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,react,nodejs,aws,kubernetes,docker,githubactions,vite,vitest,tailwind,pnpm,yarn,npm,jest,dynamodb,mongodb,postgres,redis,prometheus,dotnet,swift,bash,html,css,azure,wordpress,php,perl,jquery&theme=auto&titles=true" alt="my current main programming languages, tools and technologies: typescript, javascript, react, nodejs, aws, kubernetes, docker, githubactions, vite, vitest, tailwind, pnpm, yarn, npm, jest" />
