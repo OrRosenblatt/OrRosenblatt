@@ -1,7 +1,7 @@
 # Hi, I'm Or 🦙👋🏽
 
 - I'm a software engineer with 18+ years of experience.
-- True full stack: Backend, Frontend, Web, Mobile, Desktop, DevOps, Architecture - you name it.
+- True full stack: Backend, Frontend, Web, Mobile, Platform Engineering, DevOps, Architecture - you name it.
 - Passionate about software architecture, clean code, and automation.
 - Eager to make a difference for women in tech:
   - Led the Soluto SheCodes branch as branch manager.
